@@ -1,0 +1,16 @@
+.testimonios-section {
+    padding: 100px 20px;
+    text-align: center;
+    background-color: #fff3e0;
+  }
+  
+  .testimonios-section h2 {
+    font-size: 2rem;
+    color: #f57c00;
+  }
+  
+  .testimonios-section p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  

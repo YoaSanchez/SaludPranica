@@ -1,0 +1,16 @@
+.beneficios-section {
+    padding: 100px 20px;
+    text-align: center;
+    background-color: #f1f8e9;
+  }
+  
+  .beneficios-section h2 {
+    font-size: 2rem;
+    color: #388e3c;
+  }
+  
+  .beneficios-section p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  

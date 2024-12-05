@@ -1,0 +1,16 @@
+.inicio-section {
+    padding: 100px 20px;
+    text-align: center;
+    background-color: #e0f7fa;
+  }
+  
+  .inicio-section h2 {
+    font-size: 2rem;
+    color: #00796b;
+  }
+  
+  .inicio-section p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  

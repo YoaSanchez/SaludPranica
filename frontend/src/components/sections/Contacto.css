@@ -1,0 +1,16 @@
+.contacto-section {
+    padding: 100px 20px;
+    text-align: center;
+    background-color: #ede7f6;
+  }
+  
+  .contacto-section h2 {
+    font-size: 2rem;
+    color: #7b1fa2;
+  }
+  
+  .contacto-section p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  

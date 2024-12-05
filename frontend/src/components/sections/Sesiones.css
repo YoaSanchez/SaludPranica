@@ -1,0 +1,16 @@
+.sesiones-section {
+    padding: 100px 20px;
+    text-align: center;
+    background-color: #e3f2fd;
+  }
+  
+  .sesiones-section h2 {
+    font-size: 2rem;
+    color: #1976d2;
+  }
+  
+  .sesiones-section p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
